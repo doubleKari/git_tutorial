@@ -1,1 +1,2 @@
-# Git and GitHub skills\n I'm excited, learning git and github
+# Git and Github skills
+I'm excited, learning git and github
